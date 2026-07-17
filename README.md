@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm KAVINKUMAR M</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Java+%7C+Spring+Boot+Developer;Python+%7C+Django+Developer;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Java+%7C+Spring+Boot+Developer;Python+%7C+Developer;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
