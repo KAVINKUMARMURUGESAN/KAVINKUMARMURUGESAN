@@ -33,7 +33,7 @@ oservices
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,c,js"/>
+<img src="https://skillicons.dev/icons?i=java,python,c"/>
 </p>
 
 ### Backend
