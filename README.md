@@ -45,7 +45,7 @@ oservices
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind"/>
+<img src="https://skillicons.dev/icons?i=html,css"/>
 </p>
 
 ### Database
@@ -57,7 +57,7 @@ oservices
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+<img src="https://skillicons.dev/icons?i=github,vscode,postman"/>
 </p>
 
 ---
