@@ -17,16 +17,12 @@
 
 🚀 Interested in
 - Spring Boot
-- Django
+  
 - REST APIs
 - Database Design
 - AI & Computer Vision
-
-🌱 Currently learning
-- System Design
-- Data Structures & Algorithms
-- Microservices
-- Docker
+oservices
+- 
 
 🎯 Looking for Backend Development Internship Opportunities.
 
@@ -43,7 +39,7 @@
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring,django,flask"/>
+<img src="https://skillicons.dev/icons?i=spring"/>
 </p>
 
 ### Frontend
@@ -61,7 +57,7 @@
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,maven,postman"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
 </p>
 
 ---
